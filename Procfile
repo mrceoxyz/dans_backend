@@ -1,0 +1,1 @@
+web: gunicorn tailor_shop_api.wsgi
