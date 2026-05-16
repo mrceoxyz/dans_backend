@@ -17,4 +17,4 @@ if [[ $CREATE_SUPERUSER ]]; then
   python manage.py createsuperuser --noinput
 fi
 
-python manage.py populate_data
+# python manage.py populate_data

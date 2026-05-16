@@ -21,7 +21,7 @@ var/
 *.pot
 *.bak
 local_settings.py
-db.sqlite3
+# db.sqlite3
 media/ # Or whatever you named your media directory
 static/ # Directory for collected static files, if generated locally for deployment
 
